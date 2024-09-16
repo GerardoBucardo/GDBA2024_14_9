@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GDBA2024_14_9.props" />
+</Project>
